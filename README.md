@@ -220,3 +220,30 @@ Response:
 Status: 200 OK
 Body: Interview details for the applicant.
 
+#All Endpoints to Test in Postman Tested.
+
+![Screenshot (11)](https://github.com/user-attachments/assets/15bcc100-92e1-4f47-a137-e5347bb4781d)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/cc808ccf-1179-44f2-9e48-aa52d66e18c9)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/94269e57-544c-4abe-80a6-7527ad68b00e)
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/69686bf7-05d6-41ef-97e8-4f574090e998)
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/16c575dc-2a1c-40e9-9067-9d4d9051db2d)
+
+
+![Screenshot (16)](https://github.com/user-attachments/assets/7534aab7-34be-4fec-b325-a36ee7ed6ec9)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/6a5a57cc-7a10-43d8-a45c-7f3a3da8af72)
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/a5386e75-b9df-4880-8068-e5cc30d41f82)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/9816f016-761e-430b-94db-b17992dc277e)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/d95d2040-d8cd-4f29-b25d-0ab461615a1c)
+
+
