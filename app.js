@@ -33,10 +33,6 @@ app.use('/api', applicantRoutes);
 app.use('/api', interviewRoutes);
 app.use('/api', authRoutes);
 
-// Default route
-app.get('/', (req, res) => {
-  res.send('Server is up and running!');
-});
 
 // Start server
 const PORT = process.env.PORT || 5000;
