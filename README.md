@@ -93,9 +93,9 @@ Body (raw - JSON):
 json
 Copy code
 {
-  "name": "John Doe",
-  "email": "john@example.com",
-  "password": "Password123",
+  "name": "Super Man",
+  "email": "superman@gmail.com",
+  "password": "Superman@123",
   "role": "applicant"  // or "interviewer"
 }
 Response:
@@ -108,8 +108,8 @@ Body (raw - JSON):
 json
 Copy code
 {
-  "email": "john@example.com",
-  "password": "Password123"
+   "email": "superman@gmail.com",
+  "password": "Superman@123"
 }
 Response:
 Status: 200 OK
@@ -152,8 +152,8 @@ json
 Copy code
 {
   "jobId": "jobObjectId",
-  "name": "Jane Doe",
-  "email": "jane@example.com",
+  "name": "Yogeshmasai",
+  "email": "yogeshmasai@gmail.com",
   "resumeLink": "http://example.com/resume.pdf",
   "status": "Pending"
 }
